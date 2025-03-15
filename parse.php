@@ -15,7 +15,7 @@ $feed->handle_content_type();
 <html xmlns
 <head>
 	<title>Sample SimplePie Page</title>
-	<meta
+	<link rel="stylesheet" href="min.css">
 </head>
 <body><div class="item">';
 
