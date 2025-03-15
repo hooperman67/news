@@ -38,6 +38,6 @@ $feed->handle_content_type();
 </html>';
  ?>
 	<?php endforeach;
-file_put_contents('public/parsed.html', $html);
+file_put_contents('docs/parsed.html', $html);
 ?>
  
