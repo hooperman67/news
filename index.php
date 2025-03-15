@@ -108,7 +108,6 @@ $rss1 .= '<img src="'. $thumbnail .'" width="'.$width.'" height="'.$height.'" al
 $rss1 .= '<h3><a rel="nofollow" target="_blank" href="' . $item->get_permalink() . '">' . $item->get_title() . '</a></h3>';
 $rss1 .= '<p>'. $item->get_date() .'</p><p>'. shorten($item->get_description(), 450) . '</p>';
 $rss1 .= 'News Article from: '.$item->get_feed()->get_title().'';
-$rss1 .= '<br><a target="_blank" href="https://twitter.com/intent/tweet/?text='.urlencode($item->get_title()).'&url='. urlencode($item->get_permalink()) .'"><img src="images/twitter.svg" width="32" height="32" alt="Twitter"> Share this News story</a>';
 $rss1 .= '</article></div>';
 
         $imageCount++;
@@ -125,7 +124,6 @@ $rss1 .= '</article></div>';
         $rss1 .= '<p>'. $item->get_description() . '</p>';
         $rss1 .= 'Article from : '.$item->get_feed()->get_title().'<br>';
         $rss1 .= '<br><a rel="nofollow" target="_blank" href="' . $item->get_permalink() . '"> Read More</a>';        
-        $rss1 .= '<p><a target="_blank" href="https://twitter.com/intent/tweet/?text='.urlencode($item->get_title()).'&url='. urlencode($item->get_permalink()) .'"><img src="images/twitter.svg" width="32" height="32" alt="Twitter"> Share</a></p><br>';
         $rss1 .= '</div>';
     }
 }
