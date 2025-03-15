@@ -1,6 +1,6 @@
 <?php
 include_once ('SimplePie.compiled.php');
-$url = 'http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml';
+$url = 'https://www.glasgowtimes.co.uk/sport/celtic/rss/';
 $feed = new SimplePie();
 $feed->set_feed_url($url);
 $feed->init();
