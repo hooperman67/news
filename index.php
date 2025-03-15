@@ -144,7 +144,7 @@ $jsonOutput = json_encode($blogitems, JSON_PRETTY_PRINT);
 file_put_contents('blogsfeed.json', $jsonOutput);
 $template = file_get_contents('blogsbase.html');
 $html = str_replace('<!-- posts here -->', $rss1, $template);
-file_put_contents('blogs.html', $html);
+file_put_contents('docs/blogs.html', $html);
 
 
     $newsitems = [];  
@@ -199,4 +199,4 @@ $jsonOutput = json_encode($newsitems, JSON_PRETTY_PRINT);
 file_put_contents('newsfeed.json', $jsonOutput);
 $template = file_get_contents('newsbase.html');
 $html = str_replace('<!-- posts here -->', $rss, $template);
-file_put_contents('news.html', $html);
+file_put_contents('docs/news.html', $html);
