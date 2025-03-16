@@ -1,6 +1,17 @@
 {
     "items": [
         {
+            "title": "Celtic vs Rangers: TV channel, live stream &amp; kick-off time",
+            "date": "2025-03-16 00:00",
+            "feed_title": "Glasgow Times | Celtic",
+            "link": "https:\/\/www.glasgowtimes.co.uk\/sport\/24997151.celtic-vs-rangers-tv-channel-live-stream-kick-off\/?ref=rss",
+            "site_title": null,
+            "description": "Celtic vs Rangers: TV channel, live stream &amp; kick-off time",
+            "enclosure_url": "https:\/\/www.glasgowtimes.co.uk\/resources\/images\/19190064\/",
+            "width": 1800,
+            "height": 1200
+        },
+        {
             "title": "'Worked out': Celtic 26y\/o reveals how close he was to joining Rangers and big reason for Ibrox loss",
             "date": "2025-03-15 22:30",
             "feed_title": "The Scotsman Celtic",
@@ -100,17 +111,6 @@
             "height": 427
         },
         {
-            "title": "What channel is Celtic vs Rangers? Live stream, TV, ref, VAR and Old Firm team news",
-            "date": "2025-03-15 18:00",
-            "feed_title": "Daily Record - Celtic FC",
-            "link": "https:\/\/www.dailyrecord.co.uk\/sport\/football\/football-news\/what-channel-celtic-rangers-tv-34866952",
-            "site_title": null,
-            "description": "Glasgow's big two lock horns for the fourth time this season as Barry Ferguson comes up against derby master Brendan Rodgers",
-            "enclosure_url": "https:\/\/i2-prod.dailyrecord.co.uk\/incoming\/article34866922.ece\/ALTERNATES\/s615\/0_Celtic-FC-v-Rangers-FC-William-Hill-Premiership.jpg",
-            "width": 615,
-            "height": 409
-        },
-        {
             "title": "Who will win Celtic vs Rangers? Our writers deliver predictions for derby showdown at Parkhead",
             "date": "2025-03-15 18:00",
             "feed_title": "Daily Record - Celtic FC",
@@ -118,6 +118,17 @@
             "site_title": null,
             "description": "It's Brendan Rodgers vs Barry Ferguson in Glasgow's east end with away fans back in attendance for the first time in a couple of years",
             "enclosure_url": "https:\/\/i2-prod.dailyrecord.co.uk\/incoming\/article34868410.ece\/ALTERNATES\/s615\/0_JS343870315.jpg",
+            "width": 615,
+            "height": 409
+        },
+        {
+            "title": "What channel is Celtic vs Rangers? Live stream, TV, ref, VAR and Old Firm team news",
+            "date": "2025-03-15 18:00",
+            "feed_title": "Daily Record - Celtic FC",
+            "link": "https:\/\/www.dailyrecord.co.uk\/sport\/football\/football-news\/what-channel-celtic-rangers-tv-34866952",
+            "site_title": null,
+            "description": "Glasgow's big two lock horns for the fourth time this season as Barry Ferguson comes up against derby master Brendan Rodgers",
+            "enclosure_url": "https:\/\/i2-prod.dailyrecord.co.uk\/incoming\/article34866922.ece\/ALTERNATES\/s615\/0_Celtic-FC-v-Rangers-FC-William-Hill-Premiership.jpg",
             "width": 615,
             "height": 409
         },
@@ -208,17 +219,6 @@
             "enclosure_url": "https:\/\/i2-prod.dailyrecord.co.uk\/incoming\/article34760546.ece\/ALTERNATES\/s615\/0_Nottingham-Forest-v-Brighton-and-Hove-Albion-Premier-League-City-Ground.jpg",
             "width": 615,
             "height": 409
-        },
-        {
-            "title": "Who is the highest paid Celtic player: Top 10 estimated weekly wages in Brendan Rodgers' squad",
-            "date": "2025-03-15 12:00",
-            "feed_title": "GlasgowWorld Celtic",
-            "link": "https:\/\/www.glasgowworld.com\/sport\/football\/celtic\/who-is-the-highest-paid-celtic-player-top-10-estimated-weekly-wages-5035281",
-            "site_title": null,
-            "description": "Celtic face off against Rangers in the Old Firm this weekend and we look at who the highest earners are heading into it.",
-            "enclosure_url": "https:\/\/www.glasgowworld.com\/jpim-static\/image\/2025\/02\/25\/22\/43\/GettyImages-2197853522.jpeg?width=600&amp;auto=webp&amp;crop=3:2&amp;quality=70",
-            "width": 600,
-            "height": 424
         }
     ]
 }
