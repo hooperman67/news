@@ -1,6 +1,28 @@
 {
     "items": [
         {
+            "title": "John McGinn recalls 'unhelpful' comments made by ex-Scotland international who questioned his maiden call-up",
+            "date": "2025-03-18 13:07",
+            "feed_title": "The Scotsman Celtic",
+            "link": "https:\/\/www.scotsman.com\/sport\/football\/john-mcginn-recalls-unhelpful-comments-made-by-ex-scotland-international-who-questioned-his-maiden-call-up-5039176",
+            "site_title": null,
+            "description": "Aston Villa captain on his rise from Scottish second tier to Champions League quarter-finals",
+            "enclosure_url": "https:\/\/www.scotsman.com\/jpim-static\/image\/2025\/03\/18\/13\/06\/21332206.jpg?width=600&amp;auto=webp&amp;crop=3:2&amp;quality=70",
+            "width": 600,
+            "height": 383
+        },
+        {
+            "title": "Vaclav Cerny must be hammered by Rangers as water squirting could have sparked derby riot - Hotline",
+            "date": "2025-03-18 12:25",
+            "feed_title": "Daily Record - Celtic FC",
+            "link": "https:\/\/www.dailyrecord.co.uk\/sport\/football\/vaclav-cerny-must-hammered-rangers-34882954",
+            "site_title": null,
+            "description": "The fallout from Sunday's Old Firm thriller continues as SFA and Police wade in to the furore after fans got soaked",
+            "enclosure_url": "https:\/\/i2-prod.dailyrecord.co.uk\/incoming\/article34883242.ece\/ALTERNATES\/s615\/1_JS362897758.jpg",
+            "width": 615,
+            "height": 409
+        },
+        {
             "title": "Rangers could 'rip up' transfer plans in summer as ex Celtic youth star sacked by SPFL club",
             "date": "2025-03-18 12:00",
             "feed_title": "GlasgowWorld Celtic",
@@ -10,6 +32,17 @@
             "enclosure_url": "https:\/\/www.glasgowworld.com\/jpim-static\/image\/2025\/02\/23\/18\/23\/GettyImages-2173595989.jpeg?width=600&amp;auto=webp&amp;crop=3:2&amp;quality=70",
             "width": 600,
             "height": 399
+        },
+        {
+            "title": "How much Celtic would earn from \u20ac40m Jeremie Frimpong transfer",
+            "date": "2025-03-18 12:00",
+            "feed_title": "Glasgow Times | Celtic",
+            "link": "https:\/\/www.glasgowtimes.co.uk\/sport\/25016769.much-celtic-earn-eur40m-frimpong-transfer\/?ref=rss",
+            "site_title": null,
+            "description": "How much Celtic would earn from \u20ac40m Jeremie Frimpong transfer.",
+            "enclosure_url": "https:\/\/www.glasgowtimes.co.uk\/resources\/images\/19219066\/",
+            "width": 2400,
+            "height": 1430
         },
         {
             "title": "The Celtic concern Brendan Rodgers will NEVER admit as Rangers mentality shift clear for all to see",
@@ -184,39 +217,6 @@
             "site_title": null,
             "description": "The Parkhead hero wasn't impressed by the visitors giving it the 'big one' at Celtic Park on derby day",
             "enclosure_url": "https:\/\/i2-prod.dailyrecord.co.uk\/incoming\/article34878803.ece\/ALTERNATES\/s615\/0_Celtic-FC-v-Rangers-FC-William-Hill-Premiership.jpg",
-            "width": 615,
-            "height": 409
-        },
-        {
-            "title": "Vaclav Cerny 'facing SFA ban' for Celtic Park water incident",
-            "date": "2025-03-17 22:49",
-            "feed_title": "Glasgow Times | Celtic",
-            "link": "https:\/\/www.glasgowtimes.co.uk\/sport\/25015555.vaclav-cerny-facing-sfa-ban-celtic-park-water-incident\/?ref=rss",
-            "site_title": null,
-            "description": "Rangers winger Vaclav Cerny could reportedly face a ban for squirting water at Celtic fans on Sunday.",
-            "enclosure_url": "https:\/\/www.glasgowtimes.co.uk\/resources\/images\/19217524\/",
-            "width": 962,
-            "height": 641
-        },
-        {
-            "title": "'Scotland's greatest-living Geordie' has say on historic Newcastle United success and pleads '100 per cent' Tartan Army commitment",
-            "date": "2025-03-17 22:30",
-            "feed_title": "The Scotsman Celtic",
-            "link": "https:\/\/www.scotsman.com\/sport\/football\/celtic\/scotlands-greatest-living-geordie-has-say-on-historic-newcastle-united-success-and-pleads-100-per-cent-tartan-army-commitment-5038160",
-            "site_title": null,
-            "description": "John Carver was \u201cgutted\u201d to miss boyhood club\u2019s Carabao Cup win while on Scotland duty",
-            "enclosure_url": "https:\/\/www.scotsman.com\/webimg\/b25lY21zOmVlYjAwZTY5LWYzMTAtNGJlNi05YjhjLTY2MTY3YWZlYTliNTo0ZGZmNjgwYy05ODdmLTQ4MzgtOWI1NS1kNTlkOThjOWM5OGI=.jpg?width=600&amp;auto=webp&amp;crop=3:2&amp;quality=70",
-            "width": 600,
-            "height": 399
-        },
-        {
-            "title": "Vaclav Cerny sweats over SFA ban as Rangers star faces probe after throwing water at Celtic fans",
-            "date": "2025-03-17 22:30",
-            "feed_title": "Daily Record - Celtic FC",
-            "link": "https:\/\/www.dailyrecord.co.uk\/sport\/football\/football-news\/cerny-rangers-ban-sfa-celtic-34878984",
-            "site_title": null,
-            "description": "The winger could find himself facing a lengthy ban for his celebration after Hamza Igamane's last-gasp winner at Celtic Park",
-            "enclosure_url": "https:\/\/i2-prod.dailyrecord.co.uk\/incoming\/article34879021.ece\/ALTERNATES\/s615\/0_Celtic-FC-v-Rangers-FC-William-Hill-Premiership.jpg",
             "width": 615,
             "height": 409
         }
