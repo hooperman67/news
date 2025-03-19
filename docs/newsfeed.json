@@ -1,6 +1,39 @@
 {
     "items": [
         {
+            "title": "John McGinn on his Celtic 'assist' and how his Champions League bow can help Scotland",
+            "date": "2025-03-18 22:31",
+            "feed_title": "Glasgow Times | Celtic",
+            "link": "https:\/\/www.glasgowtimes.co.uk\/sport\/25018937.john-mcginn-celtic-assist-champions-league-experience\/?ref=rss",
+            "site_title": null,
+            "description": "John McGinn has looked back on his \"assist\" against Celtic and explained how playing for Aston Villa in the Champions League will help Scotland.",
+            "enclosure_url": "https:\/\/www.glasgowtimes.co.uk\/resources\/images\/19222754\/",
+            "width": 1800,
+            "height": 1200
+        },
+        {
+            "title": "Former Celtic favourite Postecoglou struggles at Spurs, while Pochettino talks return",
+            "date": "2025-03-18 22:12",
+            "feed_title": "Glasgow Times | Celtic",
+            "link": "https:\/\/www.glasgowtimes.co.uk\/sport\/25018949.pochettino-hints-future-return-ange-faces-spurs-crisis\/?ref=rss",
+            "site_title": null,
+            "description": "Ange\u2019s Postecoglou\u2019s Premier League test: Can he turn Spurs\u2019 fortunes around or will Poch return before long?",
+            "enclosure_url": "https:\/\/www.glasgowtimes.co.uk\/resources\/images\/19222796\/?x=0&amp;y=64&amp;w=1125&amp;h=633",
+            "width": 1125,
+            "height": 774
+        },
+        {
+            "title": "Predicted Scotland XI to face Greece: How Steve Clarke could solve Kieran Tierney selection dilemma",
+            "date": "2025-03-18 21:52",
+            "feed_title": "The Scotsman Celtic",
+            "link": "https:\/\/www.scotsman.com\/sport\/football\/predicted-scotland-xi-to-face-greece-how-steve-clarke-could-solve-kieran-tierney-selection-dilemma-5040119",
+            "site_title": null,
+            "description": "How Scotland could line-up for Nations League play-off",
+            "enclosure_url": "https:\/\/www.scotsman.com\/jpim-static\/image\/2025\/03\/18\/21\/31\/PA-79428903.jpeg?width=600&amp;auto=webp&amp;crop=3:2&amp;quality=70",
+            "width": 600,
+            "height": 420
+        },
+        {
             "title": "Money can't buy Celtic a Callum McGregor alternative so these 4 men must prove themselves worthy",
             "date": "2025-03-18 21:26",
             "feed_title": "Daily Record - Celtic FC",
@@ -10,17 +43,6 @@
             "enclosure_url": "https:\/\/i2-prod.dailyrecord.co.uk\/incoming\/article33706150.ece\/ALTERNATES\/s615\/0_Celtic-FC-v-Rangers-FC-William-Hill-Premiership.jpg",
             "width": 615,
             "height": 409
-        },
-        {
-            "title": "Predicted Scotland XI to face Greece: How Steve Clarke could solve selection dilemma by mimicking Mikel Arteta",
-            "date": "2025-03-18 21:19",
-            "feed_title": "The Scotsman Celtic",
-            "link": "https:\/\/www.scotsman.com\/sport\/football\/predicted-scotland-xi-to-face-greece-how-steve-clarke-could-solve-selection-dilemma-by-mimicking-mikel-arteta-5040119",
-            "site_title": null,
-            "description": "How Scotland could line-up for Nations League play-off",
-            "enclosure_url": "https:\/\/www.scotsman.com\/jpim-static\/image\/2025\/03\/18\/21\/31\/PA-79428903.jpeg?width=600&amp;auto=webp&amp;crop=3:2&amp;quality=70",
-            "width": 600,
-            "height": 420
         },
         {
             "title": "Celtic defender withdraws from international duty, sparks injury fears",
@@ -197,28 +219,6 @@
             "enclosure_url": "https:\/\/www.glasgowtimes.co.uk\/resources\/images\/19212518\/?x=0&amp;y=106&amp;w=2400&amp;h=1350",
             "width": 2400,
             "height": 1542
-        },
-        {
-            "title": "Celtic 'eyeing' \u00a31.7m offer for six-foot-six French midfielder",
-            "date": "2025-03-18 15:25",
-            "feed_title": "Glasgow Times | Celtic",
-            "link": "https:\/\/www.glasgowtimes.co.uk\/sport\/25017853.celtic-reportedly-eyeing-summer-transfer-6ft-6-star\/?ref=rss",
-            "site_title": null,
-            "description": "Celtic 'eyeing' \u00a31.7m offer for six-foot-six French midfielder.",
-            "enclosure_url": "https:\/\/www.glasgowtimes.co.uk\/resources\/images\/19220637\/",
-            "width": 1800,
-            "height": 1200
-        },
-        {
-            "title": "Michael Stewart contradicts Rodgers praise of Celtic star after 'rusty and nervous' display in Rangers Old Firm loss",
-            "date": "2025-03-18 15:00",
-            "feed_title": "GlasgowWorld Celtic",
-            "link": "https:\/\/www.glasgowworld.com\/sport\/football\/celtic\/michael-stewart-contradicts-brendan-rodgers-celtic-star-rangers-old-firm-loss-5038852",
-            "site_title": null,
-            "description": "The Polish central defender was brought in from the cold to start Sunday\u2019s 3-2 Old Firm defeat alongside Cameron Carter-Vickers",
-            "enclosure_url": "https:\/\/www.glasgowworld.com\/jpim-static\/image\/2025\/03\/16\/14\/14\/Maik-Nawrocki.jpeg?width=600&amp;auto=webp&amp;crop=3:2&amp;quality=70",
-            "width": 600,
-            "height": 374
         }
     ]
 }
