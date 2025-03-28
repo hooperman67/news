@@ -1,6 +1,39 @@
 {
     "items": [
         {
+            "title": "Celtic vs Hearts: Live stream, kick-off time - but not on TV",
+            "date": "2025-03-28 07:30",
+            "feed_title": "Glasgow Times | Celtic",
+            "link": "https:\/\/www.glasgowtimes.co.uk\/sport\/25037411.celtic-vs-hearts-tv-channel-live-stream-kick-off\/?ref=rss",
+            "site_title": null,
+            "description": "Celtic vs Hearts: TV channel, live stream &amp; kick-off time",
+            "enclosure_url": "https:\/\/www.glasgowtimes.co.uk\/resources\/images\/19250318\/?x=0&amp;y=0&amp;w=2172&amp;h=1222",
+            "width": 2172,
+            "height": 1366
+        },
+        {
+            "title": "Spanish cops reopen case of missing Renfrew Celtic fan Gary Shearer after he vanished in Lanzarote",
+            "date": "2025-03-28 07:16",
+            "feed_title": "GlasgowLive - Celtic FC",
+            "link": "https:\/\/www.glasgowlive.co.uk\/news\/glasgow-news\/spanish-cops-reopen-case-missing-31298708",
+            "site_title": null,
+            "description": "Gary Shearer, 53, disappeared just two hours after arriving on the Spanish island to celebrate St Patrick's Day on March 16, 2023. His loved ones have no idea what happened to him.",
+            "enclosure_url": "https:\/\/i2-prod.glasgowlive.co.uk\/incoming\/article30701806.ece\/ALTERNATES\/s615\/0_Screenshot-544.png",
+            "width": 615,
+            "height": 409
+        },
+        {
+            "title": "Pundit claims one key Rangers man won't want 49ers takeover, Celtic hero's latest transfer has legend wowed",
+            "date": "2025-03-28 07:00",
+            "feed_title": "GlasgowWorld Celtic",
+            "link": "https:\/\/www.glasgowworld.com\/sport\/football\/rangers\/pundit-rangers-takeover-claim-celtic-hero-move-wows-legend-5054470",
+            "site_title": null,
+            "description": "Rangers and Celtic are both back in Scottish Premiership action this weekend after the international break",
+            "enclosure_url": "https:\/\/www.glasgowworld.com\/jpim-static\/image\/2025\/03\/16\/14\/41\/GettyImages-2205378662.jpeg?width=1200&amp;auto=webp&amp;crop=3:2",
+            "width": 1200,
+            "height": 811
+        },
+        {
             "title": "talkSPORT pundit plots revenge mission for Celtic against Rangers star after moment that'd leave him 'fuming'",
             "date": "2025-03-28 06:00",
             "feed_title": "GlasgowWorld Celtic",
@@ -186,39 +219,6 @@
             "enclosure_url": "https:\/\/i2-prod.dailyrecord.co.uk\/incoming\/article34945567.ece\/ALTERNATES\/s615\/0_Celtic-FC-Media-Access.jpg",
             "width": 615,
             "height": 409
-        },
-        {
-            "title": "Brendan Rodgers lured me to Celtic then treated me like I didn't exist \u2013 it was HORRIBLE and I still don't know why",
-            "date": "2025-03-27 15:09",
-            "feed_title": "Daily Record - Celtic FC",
-            "link": "https:\/\/www.dailyrecord.co.uk\/sport\/football\/football-news\/brendan-rodgers-lured-celtic-treated-34945027",
-            "site_title": null,
-            "description": "The Irishman signed Kundai Benyu during his first spell as Hoops boss and the midfielder can't understand why it didn't work out for him in Scotland",
-            "enclosure_url": "https:\/\/i2-prod.dailyrecord.co.uk\/incoming\/article34945067.ece\/ALTERNATES\/s615\/0_14448682.jpg",
-            "width": 615,
-            "height": 409
-        },
-        {
-            "title": "Well known Celtic pub in Wishaw put on the market",
-            "date": "2025-03-27 14:50",
-            "feed_title": "Daily Record - Celtic FC",
-            "link": "https:\/\/www.dailyrecord.co.uk\/in-your-area\/lanarkshire\/well-known-celtic-pub-wishaw-34942070",
-            "site_title": null,
-            "description": "The Cross Keys is a regular haunt with Hoops supporters in the town, with the Wishaw Emerald CSC bus leaving from there for matches, and returning after for post-match drinks.",
-            "enclosure_url": "https:\/\/i2-prod.dailyrecord.co.uk\/incoming\/article34942079.ece\/ALTERNATES\/s615\/0_MPR_WSH_211223CrossKeys_3JPG.jpg",
-            "width": 615,
-            "height": 409
-        },
-        {
-            "title": "Wanyama relishing 'fairy tale' link with Lennon at Dunfermline",
-            "date": "2025-03-27 14:37",
-            "feed_title": "BBC Sport",
-            "link": "https:\/\/www.bbc.com\/sport\/football\/articles\/cp8l6k88xg3o",
-            "site_title": null,
-            "description": "Former Celtic and Tottenham midfielder Victor Wanyama describes his reunion with Neil Lennon at Dunfermline Athletic as \"a fairy tale.\"",
-            "enclosure_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/36a6\/live\/1788e940-0b16-11f0-9b12-2d0d67b23402.jpg",
-            "width": 240,
-            "height": 135
         }
     ]
 }
