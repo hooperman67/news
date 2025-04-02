@@ -1,6 +1,28 @@
 {
     "items": [
         {
+            "title": "Simo Valakari targets 'crazy' St Johnstone revival starting with Celtic shocker for the ages",
+            "date": "2025-04-02 13:33",
+            "feed_title": "Daily Record - Celtic FC",
+            "link": "https:\/\/www.dailyrecord.co.uk\/sport\/football\/simo-valakari-st-johnstone-celtic-34979828",
+            "site_title": null,
+            "description": "The Saints boss and his troops are five points adrift at the bottom with just seven games left to play",
+            "enclosure_url": "https:\/\/i2-prod.dailyrecord.co.uk\/incoming\/article34979956.ece\/ALTERNATES\/s615\/0_IMG_0089.jpg",
+            "width": 615,
+            "height": 409
+        },
+        {
+            "title": "Rodgers' ex-assistant sets club record in first season",
+            "date": "2025-04-02 13:00",
+            "feed_title": "Glasgow Times | Celtic",
+            "link": "https:\/\/www.glasgowtimes.co.uk\/sport\/25058237.ex-celtic-coach-sets-club-record-first-managerial-season\/?ref=rss",
+            "site_title": null,
+            "description": "Brendan Rodgers' former assistant has set a club record in his first managerial season.",
+            "enclosure_url": "https:\/\/www.glasgowtimes.co.uk\/resources\/images\/19282800\/",
+            "width": 2400,
+            "height": 1581
+        },
+        {
             "title": "Rangers in 'pole position' to sign 17-goal ace as Celtic hope for injury boost",
             "date": "2025-04-02 12:01",
             "feed_title": "GlasgowWorld Celtic",
@@ -197,28 +219,6 @@
             "enclosure_url": "https:\/\/www.glasgowworld.com\/webimg\/b25lY21zOmNjM2QzM2E5LWZlNTYtNGEzMy1iOWI3LTM3ZDM0NmUxNzMyYjo2NzczMGU2MC04ZDgzLTQ3YzYtOGJkZi1kYmZiMjQ3NGVlODc=.jpg?width=1200&amp;auto=webp&amp;crop=3:2",
             "width": 1200,
             "height": 799
-        },
-        {
-            "title": "Celtic star backed to improve further by teammate",
-            "date": "2025-04-02 07:33",
-            "feed_title": "Glasgow Times | Celtic",
-            "link": "https:\/\/www.glasgowtimes.co.uk\/sport\/25056431.paulo-bernardo-makes-jota-celtic-claim-amid-more-come\/?ref=rss",
-            "site_title": null,
-            "description": "Paulo Bernardo believes there is more to come from Jota at Celtic.",
-            "enclosure_url": "https:\/\/www.glasgowtimes.co.uk\/resources\/images\/19280150\/",
-            "width": 2400,
-            "height": 1419
-        },
-        {
-            "title": "Brendan Rodgers provides Liam Scales injury update as return date earmarked",
-            "date": "2025-04-02 06:46",
-            "feed_title": "Glasgow Times | Celtic",
-            "link": "https:\/\/www.glasgowtimes.co.uk\/sport\/25056349.brendan-rodgers-provides-liam-scales-injury-update\/?ref=rss",
-            "site_title": null,
-            "description": "Celtic manager Brendan Rodgers has provided an update on the fitness of central defender Liam Scales.",
-            "enclosure_url": "https:\/\/www.glasgowtimes.co.uk\/resources\/images\/19280095\/",
-            "width": 2400,
-            "height": 1491
         }
     ]
 }
