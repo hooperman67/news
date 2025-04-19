@@ -1,6 +1,28 @@
 {
     "items": [
         {
+            "title": "Scottish football's gripping title races take new twists after shocks and controversial relegation",
+            "date": "2025-04-19 17:55",
+            "feed_title": "The Scotsman Celtic",
+            "link": "https:\/\/www.scotsman.com\/sport\/football\/scottish-championship\/scottish-footballs-gripping-title-races-take-another-twist-after-shock-results-amid-controversial-relegation-5091226",
+            "site_title": null,
+            "description": "Bairns stunned by Rovers as Accies face drop after bad week",
+            "enclosure_url": "https:\/\/www.scotsman.com\/jpim-static\/image\/2025\/04\/19\/17\/34\/21359708.jpeg?width=1200&amp;auto=webp&amp;crop=3:2",
+            "width": 1200,
+            "height": 807
+        },
+        {
+            "title": "Dave Cormack makes Aberdeen Scottish Cup Final ticket prediction as glory question gets bullish response",
+            "date": "2025-04-19 17:24",
+            "feed_title": "Daily Record - Celtic FC",
+            "link": "https:\/\/www.dailyrecord.co.uk\/sport\/football\/dave-cormack-makes-aberdeen-scottish-35085625",
+            "site_title": null,
+            "description": "The Dons will face St Johnstone or Celtic at the national stadium in the Scottish Cup Final next month",
+            "enclosure_url": "https:\/\/i2-prod.dailyrecord.co.uk\/incoming\/article35085628.ece\/ALTERNATES\/s615\/0_JS366373350.jpg",
+            "width": 615,
+            "height": 409
+        },
+        {
             "title": "Predicted Celtic team vs St Johnstone: 2 changes from Kilmarnock rout as Rodgers to send out a clear board message",
             "date": "2025-04-19 16:00",
             "feed_title": "GlasgowWorld Celtic",
@@ -144,17 +166,6 @@
             "height": 800
         },
         {
-            "title": "Viljami Sinisalo happy to emulate Joe Hart as Celtic keeper reflects on 'surreal' 12 month journey to Hampden",
-            "date": "2025-04-19 05:00",
-            "feed_title": "Daily Record - Celtic FC",
-            "link": "https:\/\/www.dailyrecord.co.uk\/sport\/football\/sinisalo-hart-celtic-scottish-cup-35082344",
-            "site_title": null,
-            "description": "A year on the day he runs out in Mount Florida the keeper was helping Exeter City win at Northampton in England's League One",
-            "enclosure_url": "https:\/\/i2-prod.dailyrecord.co.uk\/incoming\/article35082351.ece\/ALTERNATES\/s615\/0_JS365841723.jpg",
-            "width": 615,
-            "height": 409
-        },
-        {
             "title": "I've got a Celtic Hampden scalp on my CV already but it's something else that's spurring me on for a St Johnstone repeat",
             "date": "2025-04-19 05:00",
             "feed_title": "Daily Record - Celtic FC",
@@ -162,6 +173,17 @@
             "site_title": null,
             "description": "Saints are out to topple the Hoops again and reach the final of the Scottish Cup for the second time in four years",
             "enclosure_url": "https:\/\/i2-prod.dailyrecord.co.uk\/incoming\/article35082791.ece\/ALTERNATES\/s615\/0_8347703.jpg",
+            "width": 615,
+            "height": 409
+        },
+        {
+            "title": "Viljami Sinisalo happy to emulate Joe Hart as Celtic keeper reflects on 'surreal' 12 month journey to Hampden",
+            "date": "2025-04-19 05:00",
+            "feed_title": "Daily Record - Celtic FC",
+            "link": "https:\/\/www.dailyrecord.co.uk\/sport\/football\/sinisalo-hart-celtic-scottish-cup-35082344",
+            "site_title": null,
+            "description": "A year on the day he runs out in Mount Florida the keeper was helping Exeter City win at Northampton in England's League One",
+            "enclosure_url": "https:\/\/i2-prod.dailyrecord.co.uk\/incoming\/article35082351.ece\/ALTERNATES\/s615\/0_JS365841723.jpg",
             "width": 615,
             "height": 409
         },
@@ -197,28 +219,6 @@
             "enclosure_url": "https:\/\/www.glasgowtimes.co.uk\/resources\/images\/19352598\/",
             "width": 1800,
             "height": 1200
-        },
-        {
-            "title": "Michel-Ange Balikwisha faces backlash as Celtic transfer target has outburst addressed by ex-Rangers No2",
-            "date": "2025-04-18 19:38",
-            "feed_title": "Daily Record - Celtic FC",
-            "link": "https:\/\/www.dailyrecord.co.uk\/sport\/football\/football-transfer-news\/balikwisha-backlash-celtic-rangers-transfer-35082598",
-            "site_title": null,
-            "description": "Belgian frontman Balikwisha was a target for the Hoops in the January transfer window",
-            "enclosure_url": "https:\/\/i2-prod.dailyrecord.co.uk\/incoming\/article33250563.ece\/ALTERNATES\/s615\/0_AEK-Athens-v-Royal-Antwerp-FC-UEFA-Europa-League.jpg",
-            "width": 615,
-            "height": 409
-        },
-        {
-            "title": "How James Forrest can become Celtic's most decorated player of all-time as historic milestone looms",
-            "date": "2025-04-18 19:00",
-            "feed_title": "GlasgowWorld Celtic",
-            "link": "https:\/\/www.glasgowworld.com\/sport\/football\/celtic\/james-forrest-celtic-most-decorated-all-time-history-5090765",
-            "site_title": null,
-            "description": "The most successful Celtic players ranked based on trophies won puts the current Hoops star top of the pile",
-            "enclosure_url": "https:\/\/www.glasgowworld.com\/jpim-static\/image\/2025\/04\/18\/17\/31\/GettyImages-1333832355.jpeg?width=1200&amp;auto=webp&amp;crop=3:2",
-            "width": 1200,
-            "height": 784
         }
     ]
 }
