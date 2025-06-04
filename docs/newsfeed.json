@@ -1,6 +1,39 @@
 {
     "items": [
         {
+            "title": "CCTV appeal after Aberdeen v Hearts disorder in Scottish Cup semi final at Hampden",
+            "date": "2025-06-04 09:32",
+            "feed_title": "Daily Record - Celtic FC",
+            "link": "https:\/\/www.dailyrecord.co.uk\/news\/scottish-news\/cctv-appeal-after-aberdeen-hearts-35333321",
+            "site_title": null,
+            "description": "The appeal comes just a day after police issued CCTV images from the earlier Celtic v Hibernian match.",
+            "enclosure_url": "https:\/\/i2-prod.dailyrecord.co.uk\/news\/scottish-news\/article35333827.ece\/ALTERNATES\/s615\/0_Untitled-design.jpg",
+            "width": 615,
+            "height": 409
+        },
+        {
+            "title": "Daizen Maeda drops major Celtic future hint with Jose Mourinho 'ready' to splurge Fenerbahce transfer kitty",
+            "date": "2025-06-04 09:20",
+            "feed_title": "Daily Record - Celtic FC",
+            "link": "https:\/\/www.dailyrecord.co.uk\/sport\/football\/football-transfer-news\/maeda-celtic-transfer-mourinho-fenerbahce-35333468",
+            "site_title": null,
+            "description": "The Hoops' top performer from last season is attracting interest from across Europe",
+            "enclosure_url": "https:\/\/i2-prod.dailyrecord.co.uk\/incoming\/article35168444.ece\/ALTERNATES\/s615\/0_JS367857101.jpg",
+            "width": 615,
+            "height": 409
+        },
+        {
+            "title": "Scott Bain reveals Celtic coach's role in Falkirk move",
+            "date": "2025-06-04 08:35",
+            "feed_title": "Glasgow Times | Celtic",
+            "link": "https:\/\/www.glasgowtimes.co.uk\/sport\/25213143.scott-bain-reveals-celtic-coachs-role-falkirk-move\/?ref=rss",
+            "site_title": null,
+            "description": "Scott Bain has revealed Celtic coach Stevie Woods' role in his move to Falkirk.",
+            "enclosure_url": "https:\/\/www.glasgowtimes.co.uk\/resources\/images\/19532901\/",
+            "width": 2346,
+            "height": 1410
+        },
+        {
             "title": "Player with 'massive' Celtic credentials axes English offers to join Premiership club, current Hoops coach key",
             "date": "2025-06-04 08:00",
             "feed_title": "GlasgowWorld Celtic",
@@ -186,39 +219,6 @@
             "enclosure_url": "https:\/\/www.scotsman.com\/jpim-static\/image\/2025\/05\/25\/8\/50\/21393969.jpeg?width=1200&amp;auto=webp&amp;crop=3:2",
             "width": 1200,
             "height": 799
-        },
-        {
-            "title": "Former Celtic misfit linked with move to Hearts",
-            "date": "2025-06-03 14:52",
-            "feed_title": "Glasgow Times | Celtic",
-            "link": "https:\/\/www.glasgowtimes.co.uk\/sport\/25211934.ex-celtic-winger-arzani-linked-free-transfer-hearts\/?ref=rss",
-            "site_title": null,
-            "description": "Hearts are looking to snap up former Celtic loanee Daniel Arzani from Melbourne Victory.",
-            "enclosure_url": "https:\/\/www.glasgowtimes.co.uk\/resources\/images\/19531175\/",
-            "width": 1800,
-            "height": 1200
-        },
-        {
-            "title": "Celtic v Hibs CCTV appeal after 'incident' during Scottish Cup quarter final",
-            "date": "2025-06-03 14:30",
-            "feed_title": "GlasgowLive - Celtic FC",
-            "link": "https:\/\/www.glasgowlive.co.uk\/news\/glasgow-news\/celtic-v-hibs-cctv-appeal-31780274",
-            "site_title": null,
-            "description": "The game, which saw Celtic win 2-0, was played at Parkhead on Sunday, March 9, but police have not disclosed the exact nature of the incident.",
-            "enclosure_url": "https:\/\/i2-prod.glasgowlive.co.uk\/incoming\/article31780361.ece\/ALTERNATES\/s615\/0_Screenshot-2025-06-03-152045.jpg",
-            "width": 615,
-            "height": 409
-        },
-        {
-            "title": "Celtic drop pre-season hint as former player seals permanent move",
-            "date": "2025-06-03 13:32",
-            "feed_title": "Glasgow Times | Celtic",
-            "link": "https:\/\/www.glasgowtimes.co.uk\/sport\/25211454.celtic-hint-july-friendlies-ex-star-seals-move\/?ref=rss",
-            "site_title": null,
-            "description": "Celtic have hinted at pre-season plans for the 2025\/26 campaign.",
-            "enclosure_url": "https:\/\/www.glasgowtimes.co.uk\/resources\/images\/19074367\/",
-            "width": 2400,
-            "height": 1578
         }
     ]
 }
